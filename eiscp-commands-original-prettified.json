@@ -764,16 +764,6 @@
                   "description":"sets DVD, BD/DVD",
                   "models":"set1"
                },
-               "11": {
-                  "name": "strm-box",
-                  "description": "sets STRM BOX",
-                  "models": "set1"
-               },
-               "12": {
-                  "name": "tv",
-                  "description": "sets TV",
-                  "models": "set1"
-               },
                "20":{
                   "name":[
                      "tape-1",

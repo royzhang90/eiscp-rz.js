@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "async": "*",
-    "js-yaml": "*"
+    "js-yaml": "^3.13.1"
   },
   "maintainers": [
     {
