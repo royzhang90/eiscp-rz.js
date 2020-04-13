@@ -862,13 +862,13 @@
                   "description":"sets Universal PORT",
                   "models":"set12"
                },
-               "00":{
+               "11":{
                   "name":[
                      "video1",
                      "vcr",
                      "dvr"
                   ],
-                  "description":"sets VIDEO1, VCR/DVR",
+                  "description":"sets strm-box",
                   "models":"set1"
                },
                "01":{
