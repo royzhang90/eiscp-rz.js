@@ -16614,6 +16614,14 @@
                "value":"10",
                "models":"set1"
             },
+            "strm-box":{
+               "value":"11",
+               "models":"set0"
+            },
+            "tv":{
+               "value":"12",
+               "models":"set0"
+            },
             "tape-1":{
                "value":"20",
                "models":"set36"
