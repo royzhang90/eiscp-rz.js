@@ -16773,15 +16773,15 @@
                "models":"set12"
             },
             "video1":{
-               "value":"00",
+               "value":"11",
                "models":"set1"
             },
             "vcr":{
-               "value":"00",
+               "value":"11",
                "models":"set1"
             },
             "dvr":{
-               "value":"00",
+               "value":"11",
                "models":"set1"
             },
             "video2":{
